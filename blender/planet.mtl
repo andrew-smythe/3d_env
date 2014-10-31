@@ -1,0 +1,37 @@
+# Blender MTL File: 'planet.blend'
+# Material Count: 3
+newmtl atmosphere
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.123361 0.000000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.657895
+illum 1
+
+
+newmtl clouds
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 0.000000
+illum 1
+map_Kd /home/andrew/Desktop/csci405/asn04/blender/Clouds.png
+map_d /home/andrew/Desktop/csci405/asn04/blender/Clouds.png
+
+
+newmtl earth
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.640000 0.640000 0.640000
+Ks 0.000000 0.000000 0.000000
+Ni 1.000000
+d 1.000000
+illum 1
+map_Kd /home/andrew/Desktop/csci405/asn04/blender/Color Map.jpg
+map_Ks /home/andrew/Desktop/csci405/asn04/blender/Spec Mask.png
+map_Bump /home/andrew/Desktop/csci405/asn04/blender/Bump.jpg
+
+
